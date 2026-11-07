@@ -1,0 +1,23 @@
+{
+  "name": "ATTLAW",
+  "version": "4.0.0",
+  "tagline": "Gestión legal inteligente",
+  "colors": {
+    "ink": "#0B0D12",
+    "copper": "#B77A3F",
+    "support": "#EAECEF",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "ui": "Manrope",
+    "logo": "outlined SVG traced from supplied reference"
+  },
+  "assets": {
+    "logo": "logo/logo-principal.svg",
+    "mark": "logo/isotipo.svg",
+    "appIcon": "logo/app-icon-dark.svg",
+    "icons": "icons/",
+    "characters": "characters/",
+    "scenes": "scenes/"
+  }
+}
